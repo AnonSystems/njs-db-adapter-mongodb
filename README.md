@@ -1,0 +1,1 @@
+# njs-db-adapter-mongodb
